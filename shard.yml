@@ -1,0 +1,19 @@
+name: librtlsdr
+version: 0.1.0
+
+authors:
+  - Martyn Jago <mjago@btinternet.com>
+
+# description: |
+#   Short description of librtlsdr
+
+#dependencies:
+#  pg:
+#     github: will/crystal-pg
+#     version: "~> 0.5"
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+license: MIT
